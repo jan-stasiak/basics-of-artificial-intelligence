@@ -1,0 +1,272 @@
+C:\Python310\python.exe C:\lab5\main.py 
+Zad 3 - 1_000/10_000
+Skutecznosc sieci - test 1: 12.2000%
+Skutecznosc sieci - test 2: 21.3000%
+Skutecznosc sieci - test 3: 32.7000%
+Skutecznosc sieci - test 4: 40.4000%
+Skutecznosc sieci - test 5: 44.3000%
+Skutecznosc sieci - test 6: 47.0000%
+Skutecznosc sieci - test 7: 50.2000%
+Skutecznosc sieci - test 8: 53.3000%
+Skutecznosc sieci - test 9: 56.6000%
+Skutecznosc sieci - test 10: 58.3000%
+
+Skutecznosc sieci - test: 56.6200%
+
+Skutecznosc sieci - test 1: 60.0000%
+Skutecznosc sieci - test 2: 62.3000%
+Skutecznosc sieci - test 3: 63.5000%
+Skutecznosc sieci - test 4: 65.4000%
+Skutecznosc sieci - test 5: 67.3000%
+Skutecznosc sieci - test 6: 68.4000%
+Skutecznosc sieci - test 7: 70.0000%
+Skutecznosc sieci - test 8: 71.0000%
+Skutecznosc sieci - test 9: 71.4000%
+Skutecznosc sieci - test 10: 72.0000%
+
+Skutecznosc sieci - test: 68.9300%
+
+Skutecznosc sieci - test 1: 72.9000%
+Skutecznosc sieci - test 2: 74.3000%
+Skutecznosc sieci - test 3: 74.8000%
+Skutecznosc sieci - test 4: 74.9000%
+Skutecznosc sieci - test 5: 75.4000%
+Skutecznosc sieci - test 6: 75.8000%
+Skutecznosc sieci - test 7: 76.3000%
+Skutecznosc sieci - test 8: 76.7000%
+Skutecznosc sieci - test 9: 77.9000%
+Skutecznosc sieci - test 10: 78.4000%
+
+Skutecznosc sieci - test: 74.3000%
+
+Skutecznosc sieci - test 1: 79.1000%
+Skutecznosc sieci - test 2: 79.6000%
+Skutecznosc sieci - test 3: 79.9000%
+Skutecznosc sieci - test 4: 80.3000%
+Skutecznosc sieci - test 5: 80.7000%
+Skutecznosc sieci - test 6: 81.1000%
+Skutecznosc sieci - test 7: 81.4000%
+Skutecznosc sieci - test 8: 81.6000%
+Skutecznosc sieci - test 9: 81.9000%
+Skutecznosc sieci - test 10: 82.1000%
+
+Skutecznosc sieci - test: 77.1200%
+
+Skutecznosc sieci - test 1: 82.2000%
+Skutecznosc sieci - test 2: 82.5000%
+Skutecznosc sieci - test 3: 82.6000%
+Skutecznosc sieci - test 4: 82.6000%
+Skutecznosc sieci - test 5: 82.5000%
+Skutecznosc sieci - test 6: 82.8000%
+Skutecznosc sieci - test 7: 82.8000%
+Skutecznosc sieci - test 8: 82.9000%
+Skutecznosc sieci - test 9: 82.9000%
+Skutecznosc sieci - test 10: 83.2000%
+
+Skutecznosc sieci - test: 78.8500%
+
+Skutecznosc sieci - test 1: 83.3000%
+Skutecznosc sieci - test 2: 83.3000%
+Skutecznosc sieci - test 3: 83.5000%
+Skutecznosc sieci - test 4: 84.0000%
+Skutecznosc sieci - test 5: 84.4000%
+Skutecznosc sieci - test 6: 84.4000%
+Skutecznosc sieci - test 7: 84.6000%
+Skutecznosc sieci - test 8: 84.6000%
+Skutecznosc sieci - test 9: 84.9000%
+Skutecznosc sieci - test 10: 84.9000%
+
+Skutecznosc sieci - test: 80.0800%
+
+Skutecznosc sieci - test 1: 85.0000%
+Skutecznosc sieci - test 2: 85.1000%
+Skutecznosc sieci - test 3: 85.2000%
+Skutecznosc sieci - test 4: 85.4000%
+Skutecznosc sieci - test 5: 85.4000%
+Skutecznosc sieci - test 6: 85.5000%
+Skutecznosc sieci - test 7: 85.5000%
+Skutecznosc sieci - test 8: 85.5000%
+Skutecznosc sieci - test 9: 85.5000%
+Skutecznosc sieci - test 10: 85.5000%
+
+Skutecznosc sieci - test: 80.9000%
+
+Skutecznosc sieci - test 1: 85.7000%
+Skutecznosc sieci - test 2: 85.9000%
+Skutecznosc sieci - test 3: 86.1000%
+Skutecznosc sieci - test 4: 86.2000%
+Skutecznosc sieci - test 5: 86.2000%
+Skutecznosc sieci - test 6: 86.3000%
+Skutecznosc sieci - test 7: 86.3000%
+Skutecznosc sieci - test 8: 86.4000%
+Skutecznosc sieci - test 9: 86.6000%
+Skutecznosc sieci - test 10: 86.8000%
+
+Skutecznosc sieci - test: 81.6700%
+
+Skutecznosc sieci - test 1: 86.9000%
+Skutecznosc sieci - test 2: 86.9000%
+Skutecznosc sieci - test 3: 87.1000%
+Skutecznosc sieci - test 4: 87.3000%
+Skutecznosc sieci - test 5: 87.3000%
+Skutecznosc sieci - test 6: 87.4000%
+Skutecznosc sieci - test 7: 87.4000%
+Skutecznosc sieci - test 8: 87.4000%
+Skutecznosc sieci - test 9: 87.4000%
+Skutecznosc sieci - test 10: 87.5000%
+
+Skutecznosc sieci - test: 82.3000%
+
+Skutecznosc sieci - test 1: 87.6000%
+Skutecznosc sieci - test 2: 87.8000%
+Skutecznosc sieci - test 3: 87.8000%
+Skutecznosc sieci - test 4: 87.9000%
+Skutecznosc sieci - test 5: 87.9000%
+Skutecznosc sieci - test 6: 87.9000%
+Skutecznosc sieci - test 7: 88.0000%
+Skutecznosc sieci - test 8: 88.0000%
+Skutecznosc sieci - test 9: 88.0000%
+Skutecznosc sieci - test 10: 88.0000%
+
+Skutecznosc sieci - test: 82.6600%
+
+Skutecznosc sieci - test 1: 88.0000%
+Skutecznosc sieci - test 2: 87.9000%
+Skutecznosc sieci - test 3: 87.9000%
+Skutecznosc sieci - test 4: 87.9000%
+Skutecznosc sieci - test 5: 88.1000%
+Skutecznosc sieci - test 6: 88.1000%
+Skutecznosc sieci - test 7: 88.2000%
+Skutecznosc sieci - test 8: 88.3000%
+Skutecznosc sieci - test 9: 88.3000%
+Skutecznosc sieci - test 10: 88.3000%
+
+Skutecznosc sieci - test: 83.1800%
+
+Skutecznosc sieci - test 1: 88.3000%
+Skutecznosc sieci - test 2: 88.3000%
+Skutecznosc sieci - test 3: 88.4000%
+Skutecznosc sieci - test 4: 88.4000%
+Skutecznosc sieci - test 5: 88.6000%
+Skutecznosc sieci - test 6: 88.7000%
+Skutecznosc sieci - test 7: 88.7000%
+Skutecznosc sieci - test 8: 88.8000%
+Skutecznosc sieci - test 9: 88.9000%
+Skutecznosc sieci - test 10: 89.0000%
+
+Skutecznosc sieci - test: 83.4500%
+
+Skutecznosc sieci - test 1: 89.1000%
+Skutecznosc sieci - test 2: 89.2000%
+Skutecznosc sieci - test 3: 89.2000%
+Skutecznosc sieci - test 4: 89.2000%
+Skutecznosc sieci - test 5: 89.2000%
+Skutecznosc sieci - test 6: 89.2000%
+Skutecznosc sieci - test 7: 89.2000%
+Skutecznosc sieci - test 8: 89.2000%
+Skutecznosc sieci - test 9: 89.2000%
+Skutecznosc sieci - test 10: 89.4000%
+
+Skutecznosc sieci - test: 83.8300%
+
+Skutecznosc sieci - test 1: 89.4000%
+Skutecznosc sieci - test 2: 89.4000%
+Skutecznosc sieci - test 3: 89.4000%
+Skutecznosc sieci - test 4: 89.4000%
+Skutecznosc sieci - test 5: 89.4000%
+Skutecznosc sieci - test 6: 89.6000%
+Skutecznosc sieci - test 7: 89.6000%
+Skutecznosc sieci - test 8: 89.7000%
+Skutecznosc sieci - test 9: 89.8000%
+Skutecznosc sieci - test 10: 89.8000%
+
+Skutecznosc sieci - test: 84.3000%
+
+Skutecznosc sieci - test 1: 89.8000%
+Skutecznosc sieci - test 2: 89.8000%
+Skutecznosc sieci - test 3: 89.8000%
+Skutecznosc sieci - test 4: 89.8000%
+Skutecznosc sieci - test 5: 89.9000%
+Skutecznosc sieci - test 6: 89.9000%
+Skutecznosc sieci - test 7: 90.0000%
+Skutecznosc sieci - test 8: 90.0000%
+Skutecznosc sieci - test 9: 90.0000%
+Skutecznosc sieci - test 10: 90.1000%
+
+Skutecznosc sieci - test: 84.6900%
+
+Skutecznosc sieci - test 1: 90.1000%
+Skutecznosc sieci - test 2: 90.2000%
+Skutecznosc sieci - test 3: 90.3000%
+Skutecznosc sieci - test 4: 90.3000%
+Skutecznosc sieci - test 5: 90.3000%
+Skutecznosc sieci - test 6: 90.3000%
+Skutecznosc sieci - test 7: 90.3000%
+Skutecznosc sieci - test 8: 90.4000%
+Skutecznosc sieci - test 9: 90.5000%
+Skutecznosc sieci - test 10: 90.6000%
+
+Skutecznosc sieci - test: 85.0900%
+
+Skutecznosc sieci - test 1: 90.6000%
+Skutecznosc sieci - test 2: 90.6000%
+Skutecznosc sieci - test 3: 90.6000%
+Skutecznosc sieci - test 4: 90.7000%
+Skutecznosc sieci - test 5: 90.7000%
+Skutecznosc sieci - test 6: 90.7000%
+Skutecznosc sieci - test 7: 90.7000%
+Skutecznosc sieci - test 8: 90.8000%
+Skutecznosc sieci - test 9: 90.8000%
+Skutecznosc sieci - test 10: 90.8000%
+
+Skutecznosc sieci - test: 85.4000%
+
+Skutecznosc sieci - test 1: 90.9000%
+Skutecznosc sieci - test 2: 90.9000%
+Skutecznosc sieci - test 3: 90.9000%
+Skutecznosc sieci - test 4: 91.0000%
+Skutecznosc sieci - test 5: 91.0000%
+Skutecznosc sieci - test 6: 91.1000%
+Skutecznosc sieci - test 7: 91.1000%
+Skutecznosc sieci - test 8: 91.2000%
+Skutecznosc sieci - test 9: 91.4000%
+Skutecznosc sieci - test 10: 91.5000%
+
+Skutecznosc sieci - test: 85.6800%
+
+Skutecznosc sieci - test 1: 91.5000%
+Skutecznosc sieci - test 2: 91.5000%
+Skutecznosc sieci - test 3: 91.6000%
+Skutecznosc sieci - test 4: 91.6000%
+Skutecznosc sieci - test 5: 91.6000%
+Skutecznosc sieci - test 6: 91.6000%
+Skutecznosc sieci - test 7: 91.6000%
+Skutecznosc sieci - test 8: 91.7000%
+Skutecznosc sieci - test 9: 91.7000%
+Skutecznosc sieci - test 10: 91.8000%
+
+Skutecznosc sieci - test: 86.0000%
+
+Skutecznosc sieci - test 1: 91.8000%
+Skutecznosc sieci - test 2: 91.8000%
+Skutecznosc sieci - test 3: 91.8000%
+Skutecznosc sieci - test 4: 91.8000%
+Skutecznosc sieci - test 5: 91.8000%
+Skutecznosc sieci - test 6: 91.8000%
+Skutecznosc sieci - test 7: 91.8000%
+Skutecznosc sieci - test 8: 91.9000%
+Skutecznosc sieci - test 9: 91.9000%
+Skutecznosc sieci - test 10: 91.9000%
+
+Skutecznosc sieci - test: 86.3000%
+
+Skutecznosc sieci - test 1: 92.0000%
+Skutecznosc sieci - test 2: 92.1000%
+Skutecznosc sieci - test 3: 92.1000%
+Skutecznosc sieci - test 4: 92.3000%
+Skutecznosc sieci - test 5: 92.3000%
+Skutecznosc sieci - test 6: 92.4000%
+Skutecznosc sieci - test 7: 92.4000%
+Skutecznosc sieci - test 8: 92.4000%
+Skutecznosc sieci - test 9: 92.4000%
+Skutecznosc sieci - test 10: 92.4000%

@@ -1,0 +1,7 @@
+output = np.asmatrix(np.zeros((5, 4)))
+for i in range(4):
+    output[:, i] = self.weights[0] * x[:, i]
+    delta = 2 / self.weights[0].shape[0] * np.outer(output[:, i] - y[:, i], x[:, i])
+    self.weights[0] = self.weights[0] - alpha * delta
+
+self.err = (1 / self.weights[0].shape[0]) * np.square(output - y)

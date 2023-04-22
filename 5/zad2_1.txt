@@ -1,0 +1,128 @@
+C:\Python310\python.exe "G:\!semestr 5\PSI\lab5\main.py" 
+Zad 2 - 1_000/10_000
+Skutecznosc sieci - train 1: 28.2000%
+Skutecznosc sieci - train 2: 58.6000%
+Skutecznosc sieci - train 3: 74.5000%
+Skutecznosc sieci - train 4: 79.9000%
+Skutecznosc sieci - train 5: 82.1000%
+Skutecznosc sieci - train 6: 84.2000%
+Skutecznosc sieci - train 7: 85.4000%
+Skutecznosc sieci - train 8: 86.3000%
+Skutecznosc sieci - train 9: 87.7000%
+Skutecznosc sieci - train 10: 88.0000%
+
+Skutecznosc sieci - test: 80.4800%
+
+Skutecznosc sieci - train 1: 88.2000%
+Skutecznosc sieci - train 2: 88.6000%
+Skutecznosc sieci - train 3: 89.0000%
+Skutecznosc sieci - train 4: 89.2000%
+Skutecznosc sieci - train 5: 89.4000%
+Skutecznosc sieci - train 6: 89.7000%
+Skutecznosc sieci - train 7: 90.0000%
+Skutecznosc sieci - train 8: 90.7000%
+Skutecznosc sieci - train 9: 91.4000%
+Skutecznosc sieci - train 10: 91.7000%
+
+Skutecznosc sieci - test: 84.4300%
+
+Skutecznosc sieci - train 1: 92.3000%
+Skutecznosc sieci - train 2: 92.6000%
+Skutecznosc sieci - train 3: 93.2000%
+Skutecznosc sieci - train 4: 93.5000%
+Skutecznosc sieci - train 5: 93.9000%
+Skutecznosc sieci - train 6: 94.0000%
+Skutecznosc sieci - train 7: 94.3000%
+Skutecznosc sieci - train 8: 94.5000%
+Skutecznosc sieci - train 9: 94.6000%
+Skutecznosc sieci - train 10: 94.8000%
+
+Skutecznosc sieci - test: 86.4700%
+
+Skutecznosc sieci - train 1: 95.3000%
+Skutecznosc sieci - train 2: 95.6000%
+Skutecznosc sieci - train 3: 95.6000%
+Skutecznosc sieci - train 4: 95.8000%
+Skutecznosc sieci - train 5: 95.9000%
+Skutecznosc sieci - train 6: 95.9000%
+Skutecznosc sieci - train 7: 96.1000%
+Skutecznosc sieci - train 8: 96.2000%
+Skutecznosc sieci - train 9: 96.4000%
+Skutecznosc sieci - train 10: 96.4000%
+
+Skutecznosc sieci - test: 87.8700%
+
+Skutecznosc sieci - train 1: 96.5000%
+Skutecznosc sieci - train 2: 96.5000%
+Skutecznosc sieci - train 3: 96.5000%
+Skutecznosc sieci - train 4: 96.8000%
+Skutecznosc sieci - train 5: 97.0000%
+Skutecznosc sieci - train 6: 97.1000%
+Skutecznosc sieci - train 7: 97.1000%
+Skutecznosc sieci - train 8: 97.2000%
+Skutecznosc sieci - train 9: 97.2000%
+Skutecznosc sieci - train 10: 97.2000%
+
+Skutecznosc sieci - test: 88.5300%
+
+Skutecznosc sieci - train 1: 97.3000%
+Skutecznosc sieci - train 2: 97.7000%
+Skutecznosc sieci - train 3: 97.7000%
+Skutecznosc sieci - train 4: 97.7000%
+Skutecznosc sieci - train 5: 97.9000%
+Skutecznosc sieci - train 6: 97.9000%
+Skutecznosc sieci - train 7: 98.0000%
+Skutecznosc sieci - train 8: 98.1000%
+Skutecznosc sieci - train 9: 98.2000%
+Skutecznosc sieci - train 10: 98.6000%
+
+Skutecznosc sieci - test: 89.1600%
+
+Skutecznosc sieci - train 1: 98.6000%
+Skutecznosc sieci - train 2: 98.7000%
+Skutecznosc sieci - train 3: 98.7000%
+Skutecznosc sieci - train 4: 98.8000%
+Skutecznosc sieci - train 5: 98.8000%
+Skutecznosc sieci - train 6: 98.9000%
+Skutecznosc sieci - train 7: 98.9000%
+Skutecznosc sieci - train 8: 98.9000%
+Skutecznosc sieci - train 9: 98.9000%
+Skutecznosc sieci - train 10: 99.1000%
+
+Skutecznosc sieci - test: 89.5000%
+
+Skutecznosc sieci - train 1: 99.1000%
+Skutecznosc sieci - train 2: 99.2000%
+Skutecznosc sieci - train 3: 99.4000%
+Skutecznosc sieci - train 4: 99.4000%
+Skutecznosc sieci - train 5: 99.4000%
+Skutecznosc sieci - train 6: 99.4000%
+Skutecznosc sieci - train 7: 99.4000%
+Skutecznosc sieci - train 8: 99.5000%
+Skutecznosc sieci - train 9: 99.5000%
+Skutecznosc sieci - train 10: 99.5000%
+
+Skutecznosc sieci - test: 89.7300%
+
+Skutecznosc sieci - train 1: 99.5000%
+Skutecznosc sieci - train 2: 99.5000%
+Skutecznosc sieci - train 3: 99.5000%
+Skutecznosc sieci - train 4: 99.5000%
+Skutecznosc sieci - train 5: 99.5000%
+Skutecznosc sieci - train 6: 99.5000%
+Skutecznosc sieci - train 7: 99.5000%
+Skutecznosc sieci - train 8: 99.5000%
+Skutecznosc sieci - train 9: 99.5000%
+Skutecznosc sieci - train 10: 99.5000%
+
+Skutecznosc sieci - test: 89.8000%
+
+Skutecznosc sieci - train 1: 99.5000%
+Skutecznosc sieci - train 2: 99.6000%
+Skutecznosc sieci - train 3: 99.6000%
+Skutecznosc sieci - train 4: 99.6000%
+Skutecznosc sieci - train 5: 99.6000%
+Skutecznosc sieci - train 6: 99.6000%
+Skutecznosc sieci - train 7: 99.7000%
+Skutecznosc sieci - train 8: 99.7000%
+Skutecznosc sieci - train 9: 99.7000%

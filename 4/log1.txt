@@ -1,0 +1,147 @@
+Alpha: 0.005, 1000 training set, 10000 test set, weights <-0.1, 0.1>, 40 hiddens, dropout
+
+Iteracja 0:
+Skutecznosc sieci - test: 9.7300%
+Skutecznosc sieci - train: 10.3000%
+
+Iteracja 10:
+Skutecznosc sieci - test: 91.6000%
+Skutecznosc sieci - train: 91.8000%
+
+Iteracja 20:
+Skutecznosc sieci - test: 92.1400%
+Skutecznosc sieci - train: 92.7000%
+
+Iteracja 30:
+Skutecznosc sieci - test: 92.3900%
+Skutecznosc sieci - train: 93.2000%
+
+Iteracja 40:
+Skutecznosc sieci - test: 92.6300%
+Skutecznosc sieci - train: 93.3000%
+
+Iteracja 50:
+Skutecznosc sieci - test: 92.8300%
+Skutecznosc sieci - train: 93.4000%
+
+Iteracja 60:
+Skutecznosc sieci - test: 93.0000%
+Skutecznosc sieci - train: 93.9000%
+
+Iteracja 70:
+Skutecznosc sieci - test: 93.0000%
+Skutecznosc sieci - train: 93.8000%
+
+Iteracja 80:
+Skutecznosc sieci - test: 93.1200%
+Skutecznosc sieci - train: 93.7000%
+
+Iteracja 90:
+Skutecznosc sieci - test: 93.1700%
+Skutecznosc sieci - train: 94.1000%
+
+Iteracja 100:
+Skutecznosc sieci - test: 93.3400%
+Skutecznosc sieci - train: 94.0000%
+
+Iteracja 110:
+Skutecznosc sieci - test: 93.2500%
+Skutecznosc sieci - train: 94.2000%
+
+Iteracja 120:
+Skutecznosc sieci - test: 93.4800%
+Skutecznosc sieci - train: 94.1000%
+
+Iteracja 130:
+Skutecznosc sieci - test: 93.5300%
+Skutecznosc sieci - train: 94.3000%
+
+Iteracja 140:
+Skutecznosc sieci - test: 93.6200%
+Skutecznosc sieci - train: 94.3000%
+
+Iteracja 150:
+Skutecznosc sieci - test: 93.6900%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 160:
+Skutecznosc sieci - test: 93.5300%
+Skutecznosc sieci - train: 94.3000%
+
+Iteracja 170:
+Skutecznosc sieci - test: 93.5000%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 180:
+Skutecznosc sieci - test: 93.5800%
+Skutecznosc sieci - train: 94.6000%
+
+Iteracja 190:
+Skutecznosc sieci - test: 93.6100%
+Skutecznosc sieci - train: 94.6000%
+
+Iteracja 200:
+Skutecznosc sieci - test: 93.7100%
+Skutecznosc sieci - train: 94.8000%
+
+Iteracja 210:
+Skutecznosc sieci - test: 93.6500%
+Skutecznosc sieci - train: 94.6000%
+
+Iteracja 220:
+Skutecznosc sieci - test: 93.7800%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 230:
+Skutecznosc sieci - test: 93.6100%
+Skutecznosc sieci - train: 94.5000%
+
+Iteracja 240:
+Skutecznosc sieci - test: 93.7000%
+Skutecznosc sieci - train: 94.9000%
+
+Iteracja 250:
+Skutecznosc sieci - test: 93.7000%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 260:
+Skutecznosc sieci - test: 93.8200%
+Skutecznosc sieci - train: 94.6000%
+
+Iteracja 270:
+Skutecznosc sieci - test: 93.7100%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 280:
+Skutecznosc sieci - test: 93.8500%
+Skutecznosc sieci - train: 94.8000%
+
+Iteracja 290:
+Skutecznosc sieci - test: 93.8900%
+Skutecznosc sieci - train: 94.9000%
+
+Iteracja 300:
+Skutecznosc sieci - test: 93.9100%
+Skutecznosc sieci - train: 94.5000%
+
+Iteracja 310:
+Skutecznosc sieci - test: 93.7900%
+Skutecznosc sieci - train: 94.8000%
+
+Iteracja 320:
+Skutecznosc sieci - test: 93.7300%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 330:
+Skutecznosc sieci - test: 93.7300%
+Skutecznosc sieci - train: 94.9000%
+
+Iteracja 340:
+Skutecznosc sieci - test: 93.7400%
+Skutecznosc sieci - train: 94.7000%
+
+Iteracja 350:
+Skutecznosc sieci - test: 93.7400%
+Skutecznosc sieci - train: 94.7000%
+
+Operation took: 7481.101337194443 seconds

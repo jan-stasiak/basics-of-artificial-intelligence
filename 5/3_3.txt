@@ -1,0 +1,8 @@
+C:\Python310\python.exe C:\lab5\main.py 
+Zad 3 - 60_000/10_000
+Skutecznosc sieci - test 1: 70.4217%
+Skutecznosc sieci - test 2: 83.6500%
+Skutecznosc sieci - test 3: 84.8650%
+Skutecznosc sieci - test 4: 85.7767%
+Skutecznosc sieci - test 5: 87.0567%
+Skutecznosc sieci - test 6: 88.4783%
